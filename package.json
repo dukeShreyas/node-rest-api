@@ -16,7 +16,7 @@
     "url": "https://github.com/dukeShreyas/node-rest-api"
   },
   "engines": {
-    "node": "4.0.0"
+    "node": "4.7.0"
   },
   "author": "Shreyas Hiremath"
 }
